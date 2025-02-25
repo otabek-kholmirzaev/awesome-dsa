@@ -64,3 +64,28 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - [Solution](https://youtu.be/D0X0BONOQhI)
 
 </details>
+
+### Stacks & Queues
+
+<details>
+  <summary><b>Tutorials</b></summary>
+
+- [Introduction to Stacks and Queues - by CS Dojo](https://youtu.be/A3ZUpyrnCbM)
+- [Stack and Queue Playlist - by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0pOd5zvVVSzgpo6BaCpHT9c)
+
+</details>
+
+<details> 
+  <summary><b>Practice Problems</b></summary>
+
+- [Baseball Game](https://leetcode.com/problems/baseball-game/) - [Solution](https://youtu.be/Id_tqGdsZQI)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Solution](https://youtu.be/WTzjTskDFMg)
+- [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - [Solution](https://youtu.be/rW4vm0-DLYc)
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) - [Solution](https://youtu.be/eanwa3ht3YQ)
+- [Make The String Great](https://leetcode.com/problems/make-the-string-great/) - [Solution](https://youtu.be/10tBWNjzvtw)
+- [Min Stack](https://leetcode.com/problems/min-stack/) - [Solution](https://youtu.be/qkLl7nAwDPo)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - [Solution](https://youtu.be/iu0082c4HDE)
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) - [Solution](https://youtu.be/pRyFZIaKegA)
+- [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) - [Solution](https://youtu.be/aBbsfn863oA)
+
+</details>
