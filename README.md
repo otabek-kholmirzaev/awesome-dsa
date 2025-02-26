@@ -127,3 +127,21 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - will add more problems soon ...
 
 </details>
+
+### Trees
+
+<details>
+  <summary><b>Tutorials</b></summary>
+
+- [Trees Playlist - by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)
+- [Introduction to Trees - by CS Dojo](https://youtu.be/1-l_UOFi1Xw)
+- [Binary Tree Algorithms for Technical Interviews](https://youtu.be/fAAZixBzIAI)
+
+</details>
+
+<details> 
+  <summary><b>Practice Problems</b></summary>
+
+- will add more problems soon ...
+
+</details>
