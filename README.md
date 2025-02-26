@@ -182,3 +182,22 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - will add more problems soon ...
 
 </details>
+
+### Segment Tree
+
+<details>
+  <summary><b>Tutorials</b></summary>
+
+- [Segment Tree Tutorial - by take U forward](https://youtu.be/-dUiRtJ8ot0)
+- [Lazy Propagation in Segment Tree - by take U forward](https://youtu.be/rwXVCELcrqU)
+- [Segment Tree (Implementation) - by Errichto](https://www.youtube.com/live/2FShdqn-Oz8)
+
+</details>
+
+<details> 
+  <summary><b>Practice Problems</b></summary>
+
+- [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) - [Solution](https://youtu.be/G9GRvQRtGOc)
+- will add more problems soon ...
+
+</details>
