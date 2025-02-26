@@ -164,3 +164,21 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - will add more problems soon ...
 
 </details>
+
+### Heap/Priority Queue
+
+<details>
+  <summary><b>Tutorials</b></summary>
+
+- [Heap Tutorial - by Abdul Bari](https://youtu.be/HqPJF2L5h9U)
+- [HEAP Playlist - by Techdose](https://www.youtube.com/playlist?list=PLEJXowNB4kPyP2PdMhOUlTY6GrRIITx28)
+
+</details>
+
+<details> 
+  <summary><b>Practice Problems</b></summary>
+
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) - [Solution](https://youtu.be/hOjcdrqMoQ8)
+- will add more problems soon ...
+
+</details>
