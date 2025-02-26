@@ -201,3 +201,12 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - will add more problems soon ...
 
 </details>
+
+## Algorithms
+
+### Algorithmic Paradigms
+
+- [Brute Force](https://youtu.be/kdTpUjd71G8)
+- [Greedy Algorithms](https://youtu.be/lfQvPHGtu6Q)
+- [Divide and Conquer](https://youtu.be/YOh6hBtX5l0)
+- [Dynamic Programming](https://youtu.be/vYquumk4nWw)
