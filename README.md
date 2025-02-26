@@ -109,3 +109,21 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - will add more problems soon ...
 
 </details>
+
+### Graphs
+
+<details>
+  <summary><b>Tutorials</b></summary>
+
+- [Graph Series Playlist - by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
+- [Graph Theory Tutorial from a Google Engineer](https://youtu.be/09_LlHjoEiY)
+- [Graph Algorithms for Technical Interviews](https://youtu.be/tWVWeAqZ0WU)
+
+</details>
+
+<details> 
+  <summary><b>Practice Problems</b></summary>
+
+- will add more problems soon ...
+
+</details>
