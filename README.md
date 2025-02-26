@@ -145,3 +145,22 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - will add more problems soon ...
 
 </details>
+
+### Trie
+
+<details>
+  <summary><b>Tutorials</b></summary>
+
+- [Tries - by Gayle Laakmann](https://youtu.be/zIjfhVPRZCg)
+- [Trie Series Playlist - by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp)
+- [TRIE in Coding Interviews - by Errichto](https://www.youtube.com/live/MyiHeqtwOWQ)
+
+</details>
+
+<details> 
+  <summary><b>Practice Problems</b></summary>
+
+- [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) - [Solution](https://youtu.be/oobqoCJlHA0)
+- will add more problems soon ...
+
+</details>
