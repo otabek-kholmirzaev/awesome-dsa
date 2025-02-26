@@ -89,3 +89,23 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) - [Solution](https://youtu.be/aBbsfn863oA)
 
 </details>
+
+### Hash Maps/Hash Tables
+
+<details>
+  <summary><b>Tutorials</b></summary>
+
+- [Introduction to Hash Tables and Dictionaries - by CS Dojo](https://youtu.be/sfWyugl4JWA)
+- [Hash Tables: Hash Functions, Sets, & Maps - by Greg Hogg](https://youtu.be/iZyxNEBpqFY)
+- [Hash Map Tutorial - by take U forward](https://youtu.be/KEs5UyBJ39g)
+
+</details>
+
+<details> 
+  <summary><b>Practice Problems</b></summary>
+
+- [Design HashMap](https://leetcode.com/problems/design-hashmap/) - [Solution](https://youtu.be/cNWsgbKwwoU)
+- [Design HashSet](https://leetcode.com/problems/design-hashset/) - [Solution](https://youtu.be/VymjPQUXjL8)
+- will add more problems soon ...
+
+</details>
