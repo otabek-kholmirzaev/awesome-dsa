@@ -1,8 +1,8 @@
-# Awesome Data Structures & Algorithms
+# 🚀 Awesome Data Structures & Algorithms
 
 A **roadmap** for data structures and algorithms with comprehensive tutorials & practice resources.
 
-## Data Structures
+## ✅ Data Structures
 
 ### Time & Space Complexity
 
@@ -145,7 +145,7 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) - [Solution](https://youtu.be/G9GRvQRtGOc)
 - will add more problems soon ...
 
-## Algorithms
+## ✅ Algorithms
 
 ### Algorithmic Paradigms
 
@@ -153,3 +153,21 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - [Greedy Algorithms](https://youtu.be/lfQvPHGtu6Q)
 - [Divide and Conquer](https://youtu.be/YOh6hBtX5l0)
 - [Dynamic Programming](https://youtu.be/vYquumk4nWw)
+
+### Sorting Algorithms
+
+#### Tutorials:
+
+- [Bubble Sort](https://youtu.be/xli_FI7CuzA)
+- [Selection Sort](https://youtu.be/g-PGLbMth_g)
+- [Insertion Sort](https://youtu.be/JU767SDMDvA)
+- [Merge Sort](https://youtu.be/4VqmGXwpLqc)
+- [Quick Sort](https://youtu.be/Hoixgm4-P4M)
+- [Heap Sort](https://youtu.be/2DmK_H7IdTo)
+- [Counting Sort](https://youtu.be/OKd534EWcdk)
+- [Radix Sort](https://youtu.be/XiuSW_mEn7g)
+- [Bucket Sort](https://youtu.be/VuXbEb5ywrU)
+
+#### Practice Problems:
+
+- will add more problems soon ...
