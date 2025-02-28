@@ -184,3 +184,16 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - ⚡ Practice Problems:
 
   - will add more problems soon ...
+
+### 🎯 Recursion & Backtracking
+
+- 📚 Tutorials:
+
+  - [Introduction to Recursion - by CS Dojo](https://youtu.be/B0NtAFf4bvU)
+  - [Introduction to Backtracking - by Abdul Bari](https://youtu.be/DKCbsiDBN6c)
+  - [Recursive Backtracking - by Greg Hogg](https://youtu.be/L0NxT2i-LOY)
+  - [Recursion & Backtracking Playlist - by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9)
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
