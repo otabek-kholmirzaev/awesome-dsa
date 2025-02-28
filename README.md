@@ -171,3 +171,16 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - ⚡ Practice Problems:
 
   - will add more problems soon ...
+
+### 🎯 Searching Algorithms
+
+- 📚 Tutorials:
+
+  - [Linear Search](https://youtu.be/19hcyQN8J7o)
+  - Binary Search
+    - [Binary Search tutorial - by Errichto](https://youtu.be/GU7DpgHINWQ)
+    - [Binary Search Playlist by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF)
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
