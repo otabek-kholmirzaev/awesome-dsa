@@ -197,3 +197,16 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - ⚡ Practice Problems:
 
   - will add more problems soon ...
+
+### 🎯 Divide and Conquer
+
+- 📚 Tutorials:
+
+  - Merge Sort
+  - Quick Sort
+  - Binary Search
+  - Exponentiation (Fast Power)
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
