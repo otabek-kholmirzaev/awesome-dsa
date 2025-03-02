@@ -202,10 +202,10 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 
 - 📚 Tutorials:
 
-  - Merge Sort
-  - Quick Sort
-  - Binary Search
-  - Exponentiation (Fast Power)
+  - [Merge Sort](https://youtu.be/mB5HXBb_HY8)
+  - [Quick Sort](https://youtu.be/7h1s2SojIRw)
+  - [Binary Search](https://youtu.be/C2apEw9pgtw)
+  - [Exponentiation (Fast Power)](https://youtu.be/L-Wzglnm4dM)
 
 - ⚡ Practice Problems:
 
