@@ -210,3 +210,14 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - ⚡ Practice Problems:
 
   - will add more problems soon ...
+
+### 🎯 Dynamic Programming (DP)
+
+- 📚 Tutorials:
+
+  - [What Is Dynamic Programming - by CS Dojo](https://youtu.be/vYquumk4nWw)
+  - [Dynamic Programming Playlist - by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
