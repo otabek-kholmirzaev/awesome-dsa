@@ -221,3 +221,22 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - ⚡ Practice Problems:
 
   - will add more problems soon ...
+
+### 🎯 Graph Algorithms
+
+- 📚 Tutorials:
+
+  - [BFS & DFS](https://youtu.be/pcKY4hjDrxk)
+  - [BFS (Breadth-First Search)](https://youtu.be/oDqjPvD54Ss)
+  - [DFS (Depth-First Search)](https://youtu.be/7fujbpJ0LB4)
+  - [Dijkstra’s Algorithm](https://youtu.be/pSqmAO-m7Lk)
+  - [Bellman-Ford Algorithm](https://youtu.be/lyw4FaxrwHg)
+  - [Floyd-Warshall Algorithm](https://youtu.be/4NQ3HnhyNfQ)
+  - [Topological Sorting (Kahn’s Algorithm, DFS)](https://youtu.be/eL-KzMXSXXI)
+  - [Strongly Connected Components (Kosaraju, Tarjan)](https://youtu.be/wUgWX0nc4NY)
+  - [Kruskal’s Algorithm (MST)](https://youtu.be/JZBQLXgSGfs)
+  - [Prim’s Algorithm (MST)](https://youtu.be/jsmMtJpPnhU)
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
