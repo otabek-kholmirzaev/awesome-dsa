@@ -240,3 +240,18 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - ⚡ Practice Problems:
 
   - will add more problems soon ...
+
+### 🎯 Tree Algorithms
+
+- 📚 Tutorials:
+
+  - [Binary Tree Traversals (Inorder, Preorder, Postorder)]()
+  - [Lowest Common Ancestor (LCA)]()
+  - [Diameter of a Tree]()
+  - [Tree Serialization & Deserialization]()
+  - [Binary Search Tree (BST) Operations (Insert, Delete, Search)]()
+  - [AVL Tree (Self-balancing BST)]()
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
