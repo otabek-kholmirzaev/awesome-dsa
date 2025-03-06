@@ -245,13 +245,13 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 
 - 📚 Tutorials:
 
-  - [Binary Tree Traversals (Inorder, Preorder, Postorder)]()
-  - [Lowest Common Ancestor (LCA)]()
-  - [Diameter of a Tree]()
-  - [Tree Serialization & Deserialization]()
-  - [Binary Search Tree (BST) Operations (Insert, Delete, Search)]()
-  - [AVL Tree (Self-balancing BST)]()
-  - [Trie (Prefix Tree) – Insert, Search, Delete]()
+  - [Binary Tree Traversals (Inorder, Preorder, Postorder)](https://youtu.be/BHB0B1jFKQc)
+  - [Lowest Common Ancestor (LCA)](https://youtu.be/py3R23aAPCA)
+  - [Diameter of a Tree](https://youtu.be/6lJZ_xj1mEo)
+  - [Tree Serialization & Deserialization](https://youtu.be/suj1ro8TIVY)
+  - [Binary Search Tree (BST) Operations (Insert, Delete, Search)](https://youtu.be/edfGASf_QxE)
+  - [AVL Tree (Self-balancing BST)](https://youtu.be/jDM6_TnYIqE)
+  - [Trie (Prefix Tree) – Insert, Search, Delete](https://www.youtube.com/live/MyiHeqtwOWQ)
 
 - ⚡ Practice Problems:
 
