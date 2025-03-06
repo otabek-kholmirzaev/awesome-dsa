@@ -268,3 +268,17 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
 - ⚡ Practice Problems:
 
   - will add more problems soon ...
+
+### 🎯 String Algorithms
+
+- 📚 Tutorials:
+
+  - [KMP Algorithm (Pattern Matching)](https://youtu.be/V5-7GzOfADQ)
+  - [Rabin-Karp Algorithm (String Hashing)](https://youtu.be/qQ8vS2btsxI)
+  - [Z-Algorithm (Substring Search)](https://youtu.be/CpZh4eF8QBw)
+  - [Longest Palindromic Substring (Manacher’s Algorithm)](https://youtu.be/V-sEwsca1ak)
+  - [Suffix Array & LCP Array](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsCQ_Educ7GCNs3mvzpXhHW5)
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
