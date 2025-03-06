@@ -251,6 +251,19 @@ A **roadmap** for data structures and algorithms with comprehensive tutorials & 
   - [Tree Serialization & Deserialization]()
   - [Binary Search Tree (BST) Operations (Insert, Delete, Search)]()
   - [AVL Tree (Self-balancing BST)]()
+  - [Trie (Prefix Tree) – Insert, Search, Delete]()
+
+- ⚡ Practice Problems:
+
+  - will add more problems soon ...
+
+### 🎯 Bit Manipulation
+
+- 📚 Tutorials:
+
+  - [Binary Numbers and Bit Manipulation - by Greg Hogg](https://youtu.be/H_NCHm3wAMI)
+  - [Bitwise Operations tutorial - by Errichto](https://youtu.be/xXKL9YBWgCY)
+  - [Bit Manipulation Playlist - by take U forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rnqh8QsJaHyIX7KUiaPUv7)
 
 - ⚡ Practice Problems:
 
